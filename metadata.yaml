@@ -1,0 +1,44 @@
+_repo: History-of-my-pets-b-With-engravings-from-designs-by-Billings_71523
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Billings, Hammatt
+    aliases:
+    - Billings, Charles Howland Hammatt
+    - Billings, Hammett
+    - Billings
+    birthdate: 1818
+    deathdate: 1874
+    gutenberg_agent_id: '32150'
+    url: http://www.gutenberg.org/2009/agents/32150
+    wikipedia: https://en.wikipedia.org/wiki/Hammatt_Billings
+creator:
+  author:
+    agent_name: Greenwood, Grace
+    aliases:
+    - Lippincott, Sara Jane Clarke
+    - Clarke, Sarah J. (Sarah Jane)
+    birthdate: 1823
+    deathdate: 1904
+    gutenberg_agent_id: '2057'
+    url: http://www.gutenberg.org/2009/agents/2057
+    wikipedia: https://en.wikipedia.org/wiki/Sara_Jane_Lippincott
+description: ''
+gutenberg_issued: '2023-08-30'
+identifiers:
+  gutenberg: '71523'
+language: en
+pgterms:marc904: https://archive.org/details/historyofmypets00gree
+pgterms:marc905: 20230707060734greenwood
+pgterms:marc906: '1871'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aBoston :$bJames R. Osgood and Company, $c1871.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'History of my pets : $b With engravings from designs by Billings'
+url: http://www.gutenberg.org/ebooks/71523
