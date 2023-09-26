@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '32150'
     url: http://www.gutenberg.org/2009/agents/32150
     wikipedia: https://en.wikipedia.org/wiki/Hammatt_Billings
+covers:
+- cover_type: archival
+  image_path: 71523-h/images/cover.jpg
 creator:
   author:
     agent_name: Greenwood, Grace
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2057
     wikipedia: https://en.wikipedia.org/wiki/Sara_Jane_Lippincott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71523#History-of-my-pets-b-With-engravings-from-designs-by-Billings
 gutenberg_issued: '2023-08-30'
 identifiers:
   gutenberg: '71523'
